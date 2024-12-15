@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="400" src="https://i.imgur.com/M4oPuYW.jpeg"  />
+  <img height="400" width="400" src="https://i.imgur.com/M4oPuYW.jpeg" alt="Rounded Image" style="border-radius: 15px; width: 300px; height: auto;" />
 </div>
 
 ###
