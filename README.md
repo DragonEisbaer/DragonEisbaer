@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/M4oPuYW.jpeg" alt="Circular Image" style="border-radius: 50%; width: 300px; height: auto;">
+  <img src="https://i.imgur.com/M4oPuYW.jpeg" alt="Circular Image" style="border-radius: 1%; width: 300px; height: 300px; object-fit: cover;">
 </div>
 
 ###
