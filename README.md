@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Julius<br>I'm a Server Administrator, Developer, Web Dev / Designer<br>from Germany / Berlin</h2>
+<h2 align="left">Hi 👋! My name is Brian<br>I'm a Dude and Java & C# Developer <br>from Germany / Berlin</h2>
 
 ###
 
