@@ -2,9 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DragonEisbaer.DragonEisbaer&right_color=mediumseagreen"  />
-</div>
 
 ###
 
@@ -46,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Juliusxyz/Juliusxyz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DragonEisbaer/DragonEisbaer/output/snake.svg" alt="Snake animation" />
 
 ###
